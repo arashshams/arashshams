@@ -1,9 +1,5 @@
 ### Hi everyone, my name is Arash Shamseddini <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Connect with me @**
-
-[LinkedIn](https://www.linkedin.com/in/arash-shamseddini/)
-
 I am passionate about:
 
 - 📊 Data Science
@@ -22,3 +18,5 @@ My favorite programming languages:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+
+**Learn more about me on my [LinkedIn](https://www.linkedin.com/in/arash-shamseddini/) page**
