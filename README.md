@@ -2,7 +2,7 @@
 
 **Connect with me @**
 
-![GitHub](https://github.com/arashshams?style=for-the-badge&logo=github&logoColor=white)
+[LinkedIn](https://www.linkedin.com/in/arash-shamseddini/)
 
 I am passionate about:
 
