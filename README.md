@@ -1,6 +1,6 @@
 ### Hi everyone, my name is Arash Shamseddini <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<tip-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 
 
