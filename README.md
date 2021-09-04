@@ -1,6 +1,8 @@
 ### Hi everyone, my name is Arash Shamseddini <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-**Connect with me:**
+**Connect with me @**
+
+	![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 I am passionate about:
 
