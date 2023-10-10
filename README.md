@@ -9,8 +9,6 @@ I am passionate about:
 
 My quest is to create quality content in the first two fields on my GitHub and [Kaggle](https://www.kaggle.com/arashshamseddini) pages 💪💪💪 🚀🚀🚀
 
-As for the other two, I should say I am still learning! 🤞🤞🤞
-
 My favorite programming languages:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
