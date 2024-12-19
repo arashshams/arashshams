@@ -1,6 +1,6 @@
-## 👋 Hello and welcome to My GitHub Page!  
+## 👋 Welcome to My GitHub Page!  
 
-I'm **Arash**, a passionate Data Scientist with over 3 years of experience in **Data Science**, **Machine Learning** and many more years in **Process Engineeing** and **Research**.
+Hi, I'm **Arash**, a passionate Data Scientist with over 3 years of experience in **Data Science**, **Machine Learning** and many more years in **Process Engineeing** and **Research**.
 
 This is my personal GitHub page where I am posting **some** of my data projects, either individual or through collaboration with my peers.
 
