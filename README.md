@@ -1,4 +1,4 @@
-## 👋 Welcome to My GitHub Page!  
+## 👋 Hello and welcome to My GitHub Page!  
 
 I'm **Arash**, a passionate Data Scientist with over 3 years of experience in **Data Science**, **Machine Learning** and many more years in **Process Engineeing** and **Research**.
 
