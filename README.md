@@ -1,20 +1,41 @@
-### Hi everyone, my name is Arash Shamseddini <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## 👋 Welcome to My GitHub Page!  
 
-I am passionate about:
+I'm **Arash**, a passionate Data Scientist with over 3 years of experience in **Data Science**, **Machine Learning** and many more years in **Process Engineeing** and **Research**.
 
-- 📊 Data Science
-- 📐 Chemical Engineering
-- 🎶 Music
-- ⚽ Soccer
+This is my personal GitHub page where I am posting **some** of my data projects, either individual or through collaboration with my peers.
 
-My quest is to create quality content in the first two fields on my GitHub and [Kaggle](https://www.kaggle.com/arashshamseddini) pages 💪💪💪 🚀🚀🚀
+---
 
-My favorite programming languages:
+## 🎓 My Education  
+- **M.Sc. in Data Science:** Which was the only thing that could drag me back to school after a PhD!
+- **Ph.D. in Chemical Engineering:**  Where I have built a track record in research. [Here](https://scholar.google.com/citations?user=t3ta5T8AAAAJ&hl=en), you can find a list of some of my publications.
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 🔭 Currently, I am: 
+- 🌍 A Data Scientist at [Environmental Dynamics Inc.](https://edynamics.com/), leading the whole company's data workflows   
+- 📊 Teaching courses in [MPS in Analytics](https://vancouver.northeastern.edu/academic_program/master-of-professional-studies-in-analytics/) program as an adjunct faculty at Northeastern University's College of Professional Studies
+- 📊 Teaching courses in Applied Data Science program at [Great Learning](https://www.mygreatlearning.com/)
+- 💡 Mentoring future data scientists at UBC's [MDS](https://masterdatascience.ubc.ca/) program  
 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+## 😊 I enjoy: 
+- Buidling data products 🛠️
+- Doing research, writing papers and more. Here is a [link](https://2024.iaia.org/draft-papers/Using_AI_for_Review_IAIA2024.pdf) to my most recent paper which is on the use AI in wildlife camera capture programs ✍️
+- Watching a good movie 🎥
+- Reading history 📖
 
-**Learn more about me on my [LinkedIn](https://www.linkedin.com/in/arash-shamseddini/) page**
+---
+
+I am passionate about learning and I believe there is no better way of learning than doing. 
+
+So, let's get in touch and discuss opportunities to collaborate on Data Science, ML or any other exciting data-driven projects! 🚀
+
+## 🌟 Let's Connect!  
+💼 [LinkedIn](https://www.linkedin.com/in/arash-shamseddini/)
+
+📊 [Kaggle](https://kaggle.com/arashshamseddini)  
+
+---
+✨ *"Data is the new oil, and I'm here to refine it into actionable insights!"*  
+
